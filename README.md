@@ -1,4 +1,4 @@
-# srocksapp
+# S.Rocks_musicapp
 
 A new Flutter project.
 
