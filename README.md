@@ -64,7 +64,6 @@ This document outlines the development approach taken to create the home screen 
 This iterative approach, combining structured architecture with responsive UI development and robust backend integration, allowed for the successful creation of the S.Rocks.Music app's home screen as per the specified requirements.
 App ScreenShots:
 ![image](https://github.com/user-attachments/assets/0856cbd2-ae7b-4f7f-ac63-5e529c2c01b6)
-![image](https://github.com/user-attachments/assets/8be684f0-469d-4ec7-80b0-4d0a381a3fcd)
 ![image](https://github.com/user-attachments/assets/29ba7374-5b6c-4ce8-abab-0771c8350fff)
 ![image](https://github.com/user-attachments/assets/77ceaef7-b487-443c-8565-276ccbf7ef10)
 
