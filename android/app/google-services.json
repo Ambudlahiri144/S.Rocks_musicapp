@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051870297015",
+    "project_id": "srocks-app",
+    "storage_bucket": "srocks-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051870297015:android:1f8a68cbd3593d93344632",
+        "android_client_info": {
+          "package_name": "com.example.srocksapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3feXTBNPI4RuM3gsHG-8ptDQXwgbH9aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
